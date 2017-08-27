@@ -1,6 +1,6 @@
 {
   "name": "@phryg1an/eslint-plugin-strict",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Strict linting rules for ESLint",
   "main": "index.js",
   "repository": {
