@@ -1,5 +1,13 @@
 module.exports = {
   "configs": {
+    "recommended": {
+      "extends": [
+        "plugin:@phryg1an/eslint-plugin-strict/possible-errors",
+        "plugin:@phryg1an/eslint-plugin-strict/best-practices",
+        "plugin:@phryg1an/eslint-plugin-strict/es6",
+        "plugin:@phryg1an/eslint-plugin-strict/variables"
+      ]
+    },
     "possible-errors": {
       "rules": {
         "for-direction": [
